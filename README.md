@@ -9,6 +9,7 @@ What you need to run this project:
  * [Visual Studio 2017](http://bit.ly/LastSliceVS)
  * [MonoGame 3.6](http://bit.ly/Mono36)
  * [Visual C++ Redistributable for Visual Studio 2012 Update 4](http://bit.ly/LastSliceRedist)
+ * [Visual C++ Redistributable for Visual Studio 2013](https://www.microsoft.com/en-us/download/details.aspx?id=40784)
 
 ## Game Controls
 
